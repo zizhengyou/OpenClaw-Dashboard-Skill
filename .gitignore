@@ -1,0 +1,15 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 生成的看板文件（不需要提交）
+*.html
+
+# 虚拟环境
+venv/
+.env

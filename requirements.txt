@@ -1,0 +1,7 @@
+# BI看板生成器依赖（OpenClaw Skill 版）
+# 安装命令: pip install -r requirements.txt
+# 或运行: bash scripts/setup.sh
+
+pandas>=2.0.0        # 数据处理核心库
+openpyxl>=3.1.0      # Excel .xlsx 文件读取支持
+pyecharts>=2.0.0     # 图表生成引擎（基于 Apache ECharts）
